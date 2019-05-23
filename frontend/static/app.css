@@ -10,8 +10,8 @@
     border-radius: 5px;
     width: 75%;
     height: 15%;
-    left: 42px;
-    top: 35px;
+    left: 20px;
+    top: 20px;
 }
 
 .level {
@@ -28,11 +28,10 @@
     height: 55%;
 }
 
-.marks {
-    margin-left: 230px;
-    margin-top: 5px;
+h5{
+    margin-left: 170px;
+    margin-top: -10px;
 }
-
 .complete1 {
     position: absolute;
     background-color: rgb(128, 111, 118);
@@ -48,14 +47,13 @@
     background-color: rgb(112, 233, 102);
     font-weight: bold;
     font-size: 3mm;
-    padding: 21px;
     padding-bottom: 38px;
     border: 2px solid #5D6063;
-    border-radius: 16px;
-    width: 18%;
-    height: 1%;
-    left: 400px;
-    top: 250px;
+    border-radius: 10px;
+    width: 250px;
+    height: 15px;
+    left: 430px;
+    top: 200px;
 }
 
 .score1 {
@@ -63,52 +61,63 @@
     color: rgb(87, 7, 7);
     font-weight: bold;
     font-size: 3mm;
-    padding: 21px;
     padding-bottom: 38px;
     background-color: rgb(112, 233, 102);
     border: 2px solid #5D6063;
     border-radius: 16px;
-    width: 18%;
-    height: 1%;
-    left: 758px;
-    top: 368px;
+    width: 250px;
+    height: 15px;
+    right: 350px;
+    bottom: 200px;
 }
 
 .bg {
     position: relative;
     width: 1000px;
     height: 500px;
-    left: 294px;
-    top: 128px;
+    left: 150px;
+    top: 50px; 
+    align-self: center;
 }
 
 .img1 {
     position: absolute;
     width: 110px;
     height: 100px;
-    left: 870px;
-    top: 247px;
+    right: 400px;
+    top: 200px;
 }
 
 .img2 {
     position: absolute;
     width: 199px;
     height: 210px;
-    left: 443px;
-    top: 275px;
+    left: 300px;
+    top: 200px;
 }
 
 .challenge {
     position: absolute;
-    color: rgb(85, 77, 77);
-    font-weight: bold;
+    color: rgb(42, 15, 49);
     font-size: 4mm;
     padding: 20px;
-    background-color: rgb(218, 114, 100);
-    border: 3px solid rgb(102, 204, 211);
-    border-radius: 5px;
-    width: 10%;
-    height: 3%;
-    left: 350px;
-    top: 450px;
+    background-color: rgb(236, 68, 118);
+    border: 1px solid rgb(195, 210, 211);
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    left: 400px;
+    top: 400px;
+    text-align: center;
+}
+b{
+  margin-top: px;
+  margin-left: 10px;
+}
+i{
+    margin-left: 100px;
+}
+h4{
+    margin-top: 20px;
+    margin-left: 20px;
 }
